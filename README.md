@@ -1,6 +1,6 @@
 <h1 align="center">🐔 Chicken Nugget</h1>
 <p align="center">
-  <b>Computer Engineering Student | Full Stack Developer</b>
+  <b>Computer Engineering Student</b>
 </p>
 
 ---
