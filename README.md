@@ -5,7 +5,7 @@
 
 ---
 
-### 🚀 Looking for a job because I can not keep eating bytes, also I need a good chair for the good of my engineer's buttocks
+### 🚀 Looking for a job because I can not keep eating bytes, also I need a good chair for the good of my engineer's back.
 
 - 🎓 Just a near-gratuation Computer Engineering student with computer science as the very one passion that gave sense to his life.
 - 💡 2 years experience working with web technologies as part of my graduation project and my work placement time.
