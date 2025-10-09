@@ -69,5 +69,5 @@
 ---
 
 <p align="center">
-  <i>Thank you for read this fast README file ChatGPT helped me write it because I was hungry and rushing straight to the kitchen 🐧</i>
+  <i>Thank you for read this fast README file that ChatGPT helped me write because I was hungry and rushing straight to the kitchen 🐧</i>
 </p>
