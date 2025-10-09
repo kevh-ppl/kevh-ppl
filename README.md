@@ -12,8 +12,8 @@
 - 🐧 Intermediate **GNU/Linux** user, with experience in **Proxmox**.
 - ⚙️ Worked in these real, practical use aimed projects:
   - **Odontech** – Dental Clinic Management System with Angular and NestJS.  
-  - **DAAS** – CUTepatitlán's Digital Admission Application System.
-  - **ISMDS** – CUTepatitlán's Integrated School Management Digital System.
+  - **DAAS** – CUTepatitlán's Digital Admission Application System with Angular and NestJS.
+  - **ISMDS** – CUTepatitlán's Integrated School Management Digital System with Angular and NestJS.
 - ☁️ Deployed in **AWS**. Setted up CI/CD pipeline using GitHub Actions.
 - 🧠 But what I really like is Operating Systems and Computer Networks. Currently focusing on learning all I can about Linux and making a learning project called **Balrog**
 
