@@ -1,6 +1,6 @@
 <h1 align="center">Hello there</h1>
 <p align="center">
-  <b>Computer Engineering Student</b>
+  <b>Computer Engineering</b>
 </p>
 
 ---
@@ -49,21 +49,11 @@
 
 ---
 
-### 📊 Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevh-ppl&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevh-ppl&theme=tokyonight" alt="Racha de contribuciones" width="48%" />
-</p>
-
----
-
 ### 💬 Contact
 
 <p align="center">
   <a href="http://www.linkedin.com/in/kevin-h-a4298630b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kevinharo.arph@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/kevh-ppl"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
