@@ -7,7 +7,7 @@
 
 ### 🚀 Looking for a job because I can not keep eating bytes, also I need a good chair for the sake of my back.
 
-- 🎓 Just a near-gratuation Computer Engineering student with computer science as the very one passion that gave sense to his life.
+- 🎓 Computer Engineer. Computer science is the very one passion that gave sense to my life.
 - 💡 2 years experience working with web technologies as part of my graduation project and my work placement time.
 - 🐧 Intermediate **GNU/Linux** user, with experience in **Proxmox**.
 - ⚙️ Worked in these real, practical use aimed projects:
