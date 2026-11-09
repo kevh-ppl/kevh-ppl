@@ -4,3 +4,4 @@
 
 <p>Fuck you</p>
 
+<p align="center"><img src="pinguino.svg" width="180" alt="pingüino"></p>
