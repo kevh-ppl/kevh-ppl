@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="260" viewBox="0 0 240 260">
+  <style>
+    .spin { transform-origin: 110px 140px; animation: spin 2.5s linear infinite; }
+    @keyframes spin {
+      0%   { transform: scaleX(1); }
+      25%  { transform: scaleX(0.05); }
+      50%  { transform: scaleX(-1); }
+      75%  { transform: scaleX(0.05); }
+      100% { transform: scaleX(1); }
+    }
+  </style>
+  <g class="spin" stroke="#000" stroke-width="2" stroke-linejoin="round">
+    <!-- brazo izquierdo (aleta) -->
+    <path d="M62 130 Q30 170 42 205 Q60 190 70 160 Z" fill="#1a1a1a"/>
+    <!-- brazo derecho levantado -->
+    <path d="M150 125 Q175 100 178 70 L192 72 Q192 110 162 150 Z" fill="#1a1a1a"/>
+    <!-- puño -->
+    <rect x="168" y="52" width="34" height="26" rx="10" fill="#1a1a1a"/>
+    <!-- dedos doblados -->
+    <path d="M170 56 q4 -6 8 0 M194 56 q4 -6 8 0" fill="none" stroke="#555" stroke-width="2"/>
+    <!-- dedo medio -->
+    <rect x="179" y="14" width="12" height="44" rx="6" fill="#1a1a1a"/>
+    <!-- cuerpo -->
+    <ellipse cx="110" cy="145" rx="55" ry="85" fill="#1a1a1a"/>
+    <!-- panza -->
+    <ellipse cx="110" cy="168" rx="40" ry="58" fill="#f4f4f4"/>
+    <!-- ojos -->
+    <ellipse cx="96" cy="95" rx="10" ry="13" fill="#fff"/>
+    <ellipse cx="124" cy="95" rx="10" ry="13" fill="#fff"/>
+    <ellipse cx="99" cy="98" rx="4" ry="6" fill="#000"/>
+    <ellipse cx="121" cy="98" rx="4" ry="6" fill="#000"/>
+    <!-- cejas de enojado -->
+    <path d="M84 80 L104 86 M136 80 L116 86" stroke="#f4f4f4" stroke-width="3" stroke-linecap="round"/>
+    <!-- pico -->
+    <path d="M94 112 Q110 102 126 112 Q110 128 94 112 Z" fill="#f7b500"/>
+    <path d="M96 113 Q110 118 124 113" fill="none" stroke="#c78900" stroke-width="1.5"/>
+    <!-- patas -->
+    <path d="M70 225 Q60 240 82 244 Q100 246 104 230 Z" fill="#f7b500"/>
+    <path d="M150 225 Q160 240 138 244 Q120 246 116 230 Z" fill="#f7b500"/>
+  </g>
+</svg>
